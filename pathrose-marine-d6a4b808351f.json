@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pathrose-marine",
+  "private_key_id": "d6a4b808351f39f055039198df74131c02b69cd1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaAFQidXaW1eMo\nUlpA3I8WdYvori2FUMKtAXL1ygD3mCfUMtpNOGtMKAg6OjNrYOEvlXA+B7YiMB6T\n6WehMx9x0j5BQo8T1hcUj5fDk21bDV0p04gNgjYCIeHx4MOm3ciIW/trnwqjEAHD\nBUQ8cUeQBxcY3CtviHdvR3i3HTyk+OJlDDy2pmd5CQLRO9oSAUVwhGXVX8Vy2s50\n+WR2KBeLnWjDJ8SFWgH9HmubjSL3xP53QSOwPRhY4CyIniYOHBTOZnNoqzFEHSud\nPpKg87Ck3jrQH4LHj+11pwgTzaAzuyXl5NM7yMv/BibS61Sa8VA/TJSgUlmsMOxM\nvIDsXST3AgMBAAECggEANlMppDKoXDstsdEf25T69UpSlKe/AT9YW/uF9dkid5DL\nsBYCD4c1OdOqBTSWtrX8N7riLxsF2KwsGojqAaI3Pkp5qBKZjARoWP/Vfm/BKxT/\n99nWSCOAKPTflMKBjxYqkEx3sWB/KpZlEf/Aet1xy2Lw7wmCq3cS6ECjxOH8yFEl\naFMjVy37tJK3ko2VygRNvMiHrLR4Gv1s1Py7neMwV6+UtI8cCaBx4is6nJ2Jeeik\n/qjODpjTa8oST7CzBC8UL17mrCUgwT4MioYpfDVgDwfMCe0gyHiSTw7R1krOUprY\nnyyoTBbHSs85nQ3uBwYL8YIz7R2D8sNJwpTk3gwNhQKBgQD10Php7pBKhDInJzzy\nH/NJ0/84UsJhoOhbE8asXpcZnu5vR2Sz51dCnv+4Z5d0GuxkCgYlvkbzK+h09cRJ\n/PiOXQ5jRRnshBKsSdoqEuCzJCw/DAQbKO/ukn2VqaV59huWv7Pv6JJL6j1Fv2V4\nN29IiD8sxNUK4kaiU1ZQVJht4wKBgQDjCF0ILJ1ITCrN8akQKKJiVG75dvtFl1A7\nBVEWlpn6YEYZ48kjNlHCI/CGM6rZG7ex0TPNLlonJB58+bw27CLKXUM+47uz9cle\nxGRKa99+MKLjGvwBBhFu0nc8pZpXdFnG/+xhPYRmdWoTnd0rrr1yloAeN89FxWek\ntlqTRPMY3QKBgCYyuud7MuDhegmrh0T4wg2O6/IMqjgRkQnWIOFYMZLBp7uTFIsA\nQAcSPhqhvl9Eb8d750imMNBI2m6SYlY9AULeIwY6DrU6MMylDUnMdS5hSJ7jdx/h\nVKd2DB3dpuE05USftY5qTZGObMcR3uq3couK4IZMb+6pCuDeomMJQkaRAoGBAKXB\nLWsSZ6KpOXcywKQzhpsT2hH4dGvSlZkBwLolKjZKo+OzEt7KgdakNq9EebAZNHx2\nqMNc3CVHkZrdGjVfIedtP/NigWBaSrMN38sWBw4ypDn7MZHtxDyNHNECdzTylblc\nkFBOgaPshY3c6+VApsBKcS+ev43JGmp/WJG8/V9hAoGAPmpSTOrXDT5U1pef1PcI\nZPhB+6i1tXnRuQlsMmb9UKzA4H7hwrULpsXoz9gHIhBIxZ1DhMoav+52FZ7v2o3v\nzuL4mMLH0+23BbyaSA5ZreJRXjR5SWBzh4uwkRt+tdbzyJnQ19eufVLKbOXiws5u\nvy8b63wHGvwnG5Q12/t50OM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@pathrose-marine.iam.gserviceaccount.com",
+  "client_id": "103449100723466778056",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40pathrose-marine.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
